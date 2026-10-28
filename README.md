@@ -1,6 +1,6 @@
-# Soluciones TI · Página web
+# TEGGNAR · Página web
 
-Página de presentación y portafolio de Soluciones TI: dashboards, automatización de procesos e integración de datos para pymes.
+Página de presentación y portafolio de TEGGNAR: dashboards, automatización de procesos e integración de datos para pymes.
 
 Publicada en Vercel. **Cada cambio en la rama `main` se publica solo** en uno o dos minutos.
 
